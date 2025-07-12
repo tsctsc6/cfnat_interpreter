@@ -1,0 +1,20 @@
+172.64.229.104 | NRT | Asia Pacific | Tokyo | 71 ms
+104.18.50.12 | SJC | North America | San Jose | 155 ms
+104.19.38.38 | SJC | North America | San Jose | 155 ms
+104.19.51.25 | SJC | North America | San Jose | 156 ms
+104.18.55.33 | SJC | North America | San Jose | 157 ms
+45.159.219.217 | SJC | North America | San Jose | 157 ms
+104.19.213.33 | SJC | North America | San Jose | 157 ms
+141.101.121.4 | SJC | North America | San Jose | 157 ms
+104.19.87.79 | SJC | North America | San Jose | 158 ms
+104.18.54.76 | SJC | North America | San Jose | 158 ms
+104.19.84.14 | SJC | North America | San Jose | 158 ms
+173.245.49.96 | SJC | North America | San Jose | 158 ms
+104.19.105.25 | SJC | North America | San Jose | 158 ms
+104.18.20.188 | LAX | North America | Los Angeles | 159 ms
+104.19.129.230 | LAX | North America | Los Angeles | 160 ms
+104.19.136.64 | LAX | North America | Los Angeles | 160 ms
+104.16.126.126 | LAX | North America | Los Angeles | 160 ms
+104.19.42.152 | SJC | North America | San Jose | 160 ms
+104.18.57.254 | SJC | North America | San Jose | 160 ms
+104.18.31.206 | LAX | North America | Los Angeles | 160 ms
