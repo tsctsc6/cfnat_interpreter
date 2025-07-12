@@ -13,7 +13,7 @@ fn main() {
         output_file.write(properties[0].as_bytes()).unwrap();
         output_file.write(":443#".as_bytes()).unwrap();
         output_file.write(properties[1].as_bytes()).unwrap();
-        let mut count = -1;
+        let mut count;
         match hashmap.get_mut(properties[1])
         {
             Some(val) => {
